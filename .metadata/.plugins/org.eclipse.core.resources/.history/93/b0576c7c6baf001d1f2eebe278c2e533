@@ -1,0 +1,10 @@
+package patternone;
+
+public class print_54321 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TINKAL
+ *
+ */
+module Array {
+}
