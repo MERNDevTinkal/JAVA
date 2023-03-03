@@ -1,8 +1,0 @@
-INDEX VERSION 1.131+E:\ALL SOFTWARE\EclipseCNG\.metadata\.plugins\org.eclipse.jdt.core
-2508709680.index
-1865797976.index
-1818320769.index
-2432993795.index
-4074400641.index
-2654110921.index
-3959137331.index

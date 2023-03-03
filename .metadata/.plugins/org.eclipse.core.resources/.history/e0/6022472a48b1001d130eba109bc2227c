@@ -1,7 +1,0 @@
-package array_in_java;
-import java.util.Scanner;
-
-public class Inputt_in_array_and_print {
-	System.out.println("Enter the array size");
-
-}
